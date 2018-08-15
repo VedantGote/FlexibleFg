@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlexibleFg</string>
+    
+    <string-array name="tit">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Provider</item>
+        <item>Intent and Intent Filters</item>
+    </string-array>
+
+    <string-array name="body">
+        <item>activity noun (ENJOYMENT) ​ A2 [ C usually plural ] something that is done for enjoyment, especially an organized event: His spare-time activities include cooking, tennis, and windsurfing. We offer our guests a wide range of outdoor/sporting activities.</item>
+        <item>In economics, a service is a transaction in which no physical goods are transferred from the seller to the buyer. The benefits of such a service are held to be demonstrated by th willingness to make the exchange.</item>
+        <item>an organization that supplies information for use on a website</item>
+        <item>An intent filter is an expression in an manifest file that specifies the type of intents that the component would like to receive. For instance, by declaring an intent filter for an activity, you make it possible for other apps to directly start your activity with a certain kind of intent.</item>
+    </string-array>
+</resources>
